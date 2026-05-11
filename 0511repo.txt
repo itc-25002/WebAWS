@@ -1,4 +1,4 @@
-0511 池谷望来 初回レポート
+05/11(月)　池谷望来 初回レポート
 AWSとは
 「AWS」とは、「Amazon Web Services」の略称であり、Amazon社が提供するクラウドコンピューティングサービスです。インターネット経由でサーバーやストレージ、データベースなど多数のITリソースを必要なときに必要な分だけ利用できる。
 代表的なサービスとして、仮想サーバーとして利用できる「Amazon Elastic Compute Cloud (Amazon EC2) 」やストレージサービスの「Amazon Simple Storage Service (Amazon S3) 」などがある。
